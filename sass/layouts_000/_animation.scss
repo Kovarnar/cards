@@ -1,0 +1,128 @@
+@keyframes animation-cards {
+    0% {
+        transform: rotateY(0deg);
+    }
+    50% {
+        transform: rotateY(0deg);
+    }
+    75% {
+        transform: rotateY(180deg);
+    }
+    100% {
+        transform: rotateY(180deg);
+    }
+}
+.cards-list__item:nth-child(3) .cards-list-item__inner {
+    animation: animation-cards 4s linear;
+}
+.cards-list__item:nth-child(18) .cards-list-item__inner {
+    animation: animation-cards 4s linear 4s;
+}
+.cards-list__item:nth-child(27) .cards-list-item__inner {
+    animation: animation-cards 4s linear 8s;
+}
+.cards-list__item:nth-child(9) .cards-list-item__inner {
+    animation: animation-cards 4s linear 12s;
+}
+.cards-list__item:nth-child(22) .cards-list-item__inner {
+    animation: animation-cards 4s linear 16s;
+}
+.cards-list__item:nth-child(34) .cards-list-item__inner {
+    animation: animation-cards 4s linear 20s;
+}
+.cards-list__item:nth-child(11) .cards-list-item__inner {
+    animation: animation-cards 4s linear 24s;
+}
+.cards-list__item:nth-child(24) .cards-list-item__inner {
+    animation: animation-cards 4s linear 28s;
+}
+.cards-list__item:nth-child(16) .cards-list-item__inner {
+    animation: animation-cards 4s linear 32s;
+}
+.cards-list__item:nth-child(5) .cards-list-item__inner {
+    animation: animation-cards 4s linear 36s;
+}
+.cards-list__item:nth-child(36) .cards-list-item__inner {
+    animation: animation-cards 4s linear 40s;
+}
+.cards-list__item:nth-child(29) .cards-list-item__inner {
+    animation: animation-cards 4s linear 44s;
+}
+.cards-list__item:nth-child(13) .cards-list-item__inner {
+    animation: animation-cards 4s linear 48s;
+}
+.cards-list__item:nth-child(1) .cards-list-item__inner {
+    animation: animation-cards 4s linear 52s;
+}
+.cards-list__item:nth-child(19) .cards-list-item__inner {
+    animation: animation-cards 4s linear 56s;
+}
+.cards-list__item:nth-child(23) .cards-list-item__inner {
+    animation: animation-cards 4s linear 60s;
+}
+.cards-list__item:nth-child(32) .cards-list-item__inner {
+    animation: animation-cards 4s linear 64s;
+}
+.cards-list__item:nth-child(7) .cards-list-item__inner {
+    animation: animation-cards 4s linear 68s;
+}
+.cards-list__item:nth-child(14) .cards-list-item__inner {
+    animation: animation-cards 4s linear 72s;
+}
+.cards-list__item:nth-child(17) .cards-list-item__inner {
+    animation: animation-cards 4s linear 76s;
+}
+.cards-list__item:nth-child(30) .cards-list-item__inner {
+    animation: animation-cards 4s linear 80s;
+}
+.cards-list__item:nth-child(6) .cards-list-item__inner {
+    animation: animation-cards 4s linear 84s;
+}
+.cards-list__item:nth-child(21) .cards-list-item__inner {
+    animation: animation-cards 4s linear 88s;
+}
+.cards-list__item:nth-child(28) .cards-list-item__inner {
+    animation: animation-cards 4s linear 92s;
+}
+.cards-list__item:nth-child(10) .cards-list-item__inner {
+    animation: animation-cards 4s linear 96s;
+}
+.cards-list__item:nth-child(4) .cards-list-item__inner {
+    animation: animation-cards 4s linear 100s;
+}
+.cards-list__item:nth-child(35) .cards-list-item__inner {
+    animation: animation-cards 4s linear 104s;
+}
+.cards-list__item:nth-child(26) .cards-list-item__inner {
+    animation: animation-cards 4s linear 108s;
+}
+.cards-list__item:nth-child(12) .cards-list-item__inner {
+    animation: animation-cards 4s linear 112s;
+}
+.cards-list__item:nth-child(33) .cards-list-item__inner {
+    animation: animation-cards 4s linear 116s;
+}
+.cards-list__item:nth-child(8) .cards-list-item__inner {
+    animation: animation-cards 4s linear 120s;
+}
+.cards-list__item:nth-child(4) .cards-list-item__inner {
+    animation: animation-cards 4s linear 124s;
+}
+.cards-list__item:nth-child(31) .cards-list-item__inner {
+    animation: animation-cards 4s linear 128s;
+}
+.cards-list__item:nth-child(25) .cards-list-item__inner {
+    animation: animation-cards 4s linear 132s;
+}
+.cards-list__item:nth-child(2) .cards-list-item__inner {
+    animation: animation-cards 4s linear 136s;
+}
+.cards-list__item:nth-child(15) .cards-list-item__inner {
+    animation: animation-cards 4s linear 140s;
+}
+.cards-list__item:nth-child(20) .cards-list-item__inner {
+    animation: animation-cards 4s linear 144s;
+}
+.cards-list__item:nth-child(35) .cards-list-item__inner {
+    animation: animation-cards 4s linear 148s;
+}
